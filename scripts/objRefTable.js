@@ -23,7 +23,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Acts.SetInstanceVar,
 		C3.Plugins.Sprite.Exps.Y,
 		C3.Plugins.Sprite.Acts.SetY,
-		C3.Plugins.video.Acts.Pause,
 		C3.Plugins.Arr.Acts.SplitString,
 		C3.Plugins.Arr.Acts.Shuffle,
 		C3.Plugins.Arr.Exps.At,
